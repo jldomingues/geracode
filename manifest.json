@@ -1,0 +1,20 @@
+{
+    "manifest_version": 2,
+    "name": "GERACODE",
+    "version": "1.0",
+    "description": "Uma extensão que gera códigos SKU e EAN aleatórios, desenvolvido por JLDomingues",
+    "icons": {
+      "16": "icon-16.png",
+      "48": "icon-48.png",
+      "128": "icon-128.png"
+    },
+    "browser_action": {
+      "default_icon": "icon-48.png",
+      "default_title": "GERACODE",
+      "default_popup": "popup.html"
+    },
+    "permissions": [
+      "activeTab",
+      "tabs"
+    ]
+  }

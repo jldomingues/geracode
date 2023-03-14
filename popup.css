@@ -1,0 +1,38 @@
+#skuButton,#generate-btn,#meu-botao,#calcular,#copiar{
+  border-radius:33px;
+  background: rgb(128,204,40);
+background: linear-gradient(30deg, rgba(128,204,40,1) 10%, rgba(94,37,144,1) 60%);
+
+}
+
+#skuButton:hover,#generate-btn:hover,#meu-botao:hover,#calcular:hover,#copiar{
+  background-color:#363636;
+}
+a{
+  text-decoration:none;
+  color:black;
+}
+input{
+  width:80%;
+  border-radius:33px;
+  background-color:black;
+  color:white;
+font-weight: 600;
+}
+button:hover, .accordion-item:hover{transform: scale(1.13);
+    
+        
+}
+
+body{
+  font-family: 'Josefin Sans', sans-serif;
+ 
+    background-color: #FEF9F3;
+    
+}
+button{
+  font-family: 'Josefin Sans', sans-serif;
+ 
+    color:white!important;
+
+}
